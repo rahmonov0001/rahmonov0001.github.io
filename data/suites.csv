@@ -1,2 +1,4 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Thu Jun 15 10:44:30 GMT 2023","Thu Jun 15 10:44:33 GMT 2023","3734","","Активность","Обычная активность","ActivityEditingTests","CheckEditActivity","Редактирование активности: работает кнопка 'Редактировать' для преподавателя",""
+"passed","Thu Jun 15 10:53:17 GMT 2023","Thu Jun 15 10:53:29 GMT 2023","12128","","Звонок","","CallTests","CheckTurnOnOffEquipmentInCall","Страница звонка: можно включить/отключить микрофон в звонке",""
+"passed","Thu Jun 15 10:53:04 GMT 2023","Thu Jun 15 10:53:17 GMT 2023","13381","","Звонок","","CallTests","CheckTurnOnOffEquipmentInCall","Страница звонка: можно включить/отключить камеру в звонке",""
+"passed","Thu Jun 15 10:53:29 GMT 2023","Thu Jun 15 10:54:00 GMT 2023","30872","","Звонок","","CallTests","CheckGreenFrameIsDisplayedOnAnotherUsersCard","Страница звонка: отображается зеленая рамка у карточки собеседника при разговоре",""
