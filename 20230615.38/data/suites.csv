@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jun 15 09:01:28 GMT 2023","Thu Jun 15 09:01:41 GMT 2023","12386","","Звонок","","CallTests","CheckTurnOnOffEquipmentInCall","Страница звонка: можно включить/отключить микрофон в звонке",""
+"passed","Thu Jun 15 09:01:15 GMT 2023","Thu Jun 15 09:01:28 GMT 2023","13126","","Звонок","","CallTests","CheckTurnOnOffEquipmentInCall","Страница звонка: можно включить/отключить камеру в звонке",""
+"passed","Thu Jun 15 09:01:41 GMT 2023","Thu Jun 15 09:02:15 GMT 2023","33917","","Звонок","","CallTests","CheckGreenFrameIsDisplayedOnAnotherUsersCard","Страница звонка: отображается зеленая рамка у карточки собеседника при разговоре",""

@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jun 15 08:45:58 GMT 2023","Thu Jun 15 08:46:02 GMT 2023","3291","","Активность","Обычная активность","ActivityEditingTests","CheckEditActivity","Редактирование активности: работает кнопка 'Редактировать' для преподавателя",""
